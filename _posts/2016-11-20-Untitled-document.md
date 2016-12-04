@@ -1,5 +1,5 @@
 ---
-title: week 3
+title: Week 3 making an animation
 
 layout: post
 author: sujan.ahilan
@@ -12,7 +12,7 @@ published: true
     <td></td>
     <td>Week 3</td>
     <td>Date</td>
-    <td>01/10/16</td>
+    <td>27/09/16</td>
   </tr>
 </table>
 
