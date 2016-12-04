@@ -1,5 +1,5 @@
 ---
-title: understanding the basics
+title: Week 1  understanding the basics
 layout: post
 author: sujan.ahilan
 permalink: /understanding-the-basics/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Understanding the basics</td>
+    <td>Week 1 Understanding the basics</td>
     <td>Date</td>
-    <td>19/9/16</td>
+    <td>14/11/16</td>
   </tr>
 </table>
 
@@ -23,7 +23,7 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To be able to successfully make the computer ask and give answer</td>
+    <td>To be able to successfully make the computer ask questions and give answers</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
