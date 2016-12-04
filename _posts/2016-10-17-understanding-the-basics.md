@@ -1,5 +1,5 @@
 ---
-title: Week 1  understanding the basics
+title: Week 2  understanding the basics
 layout: post
 author: sujan.ahilan
 permalink: /understanding-the-basics/
@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Week 1 Understanding the basics</td>
     <td>Date</td>
-    <td>14/11/16</td>
+    <td>22/09/16</td>
   </tr>
 </table>
 
