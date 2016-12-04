@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Week 1 Understanding the basics</td>
+    <td>Understanding the basics</td>
     <td>Date</td>
     <td>22/09/16</td>
   </tr>
@@ -27,7 +27,6 @@ published: true
   </tr>
   <tr>
     <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
     <td> I did reach my target for the lesson</td>
   </tr>
 </table>
