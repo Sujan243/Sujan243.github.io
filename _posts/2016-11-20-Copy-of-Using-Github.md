@@ -1,5 +1,5 @@
 ---
-title: week5-the robot arm
+title: Week 5 The robot arm
 layout: post
 author: sujan.ahilan
 permalink: /copy-of-using-github/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Week5-The robot arm</td>
+    <td>The robot arm</td>
     <td>Date</td>
-    <td>06/11/16</td>
+    <td>19/11/16</td>
   </tr>
 </table>
 
