@@ -1,5 +1,5 @@
 ---
-title: Week 6 controlling the robot arm
+title: Controlling the Robot  arm
 layout: post
 author: sujan.ahilan
 permalink: /copy-of-using-github/
