@@ -53,7 +53,8 @@ published: true
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>In order to improve my learning, next time I will put my hand up more and contribute to class discussions more as well. After this lesson I also think that I should be more independant on my tasks and not ask for so much help from the teacher and my peers.This lesson has also taught me that when I find something really difficult I shouldn’t  just give up, but just try  and try again until I find the answer.</td>
+    <td>In order to improve my learning, next time I will put my hand up more and contribute to class discussions more as well. After this lesson I also think that I should be more independant on my tasks and not ask for so much help from the teacher and my peers.This lesson has also taught me that when I find something really difficult I shouldn’t  just give up, but just try  and try again until I find the answer. The final thing that I learnt from this lesson is that you should learn from your mistakes.
+</td>
   </tr>
 </table>
 
