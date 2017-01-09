@@ -10,7 +10,7 @@ published: true
   <tr>
     <td>Title</td>
     <td>New term beginning</td>
-    <td></td>
+    <td>Date</td>
     <td>09/01/17</td>
   </tr>
 </table>
