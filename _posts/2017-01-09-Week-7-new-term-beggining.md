@@ -1,5 +1,5 @@
 ---
-title: Week 7 new term beggining
+title: Week 8 new term beggining
 layout: post
 author: sujan.ahilan
 permalink: /week-7-new-term-beggining/
