@@ -1,5 +1,5 @@
 ---
-title: Controlling the Robot  arm
+title:  Week 6 Controlling the Robot  arm
 layout: post
 author: sujan.ahilan
 permalink: /copy-of-using-github/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td> Week 6 Controlling the robot arm</td>
+    <td>Controlling the robot arm</td>
     <td>Date</td>
     <td>26/11/16</td>
   </tr>
