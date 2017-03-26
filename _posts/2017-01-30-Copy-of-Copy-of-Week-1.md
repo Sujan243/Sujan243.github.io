@@ -1,5 +1,5 @@
 ---
-title: Week 10 Using codecademy to work on harder python codes
+title: Week 14 using elif statements
 layout: post
 author: sujan.ahilan
 permalink: /copy-of-copy-of-week-1/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Using codecademy to work on harder python codes</td>
+    <td>Using Elif statements</td>
     <td>Date</td>
-    <td>23/01/17</td>
+    <td>20/2/17</td>
   </tr>
 </table>
 
@@ -19,16 +19,16 @@ published: true
 <table>
   <tr>
     <td>Starting point</td>
-    <td>learning how to make a variable on python</td>
+    <td>finishing of conditions and control flow</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
-    <td>to learn how to add tax onto a value </td>
+    <td>Target for this lesson</td>
+    <td>to be able to use else statements</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td> yes</td>
+    <td>yes</td>
   </tr>
 </table>
 
@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>today we learnt by using codecademy for the first half of the lesson but for the second half of the lesson the teacher talked about how we shouldn't just give our peers the answers and that we should either give them hint and clues or just let them figure it out for themselves. He also told us that if we spoonfed them the answer, then they wouldn't learn. All you would be doing is giving them a short term answer.</td>
+    <td>I learnt today by firstly using codecademy to progress in my learning of python, but later on in the lesson our teacher taught us how to divide our code to make it more readable when it was displayed on GitHub which was very helpful because now I know how and when to use table headers and table divisions</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>the thing that limited my learning this week was the fact that I found it quite hard to find one of the answers to one of the scripts. I sort of found it frustrating, but the good thing was, due to the fact that our teacher gave us a talk on not giving up and not asking our partners on what to do on the questions</td>
+    <td>the thing that limited my learning was the fact that when we were learning about the table headers I forgot to make notes and although I was able to listen to the teacher with better attention I made less notes as I couldn't remember everything that was said.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>the thing that I will work on for next time is trying a lot harder before giving up. I think that this limited my learning because due to the fact that I started getting frustrated my concentration levels also started going down and I started to work a lot slower. I think that I should do this because I believe that if I do this then I will be able to get a lot more done in the lesson .Furthermore I think I can improve this by just bringing water to the lesson.</td>
+    <td>Next time If the teacher is talking to us then I will make notes so that later on I can refer to my notes at home if I forget a certain code. Another thing I will do to improve my learning is try make my background a moving background using GitHub to engage the person that is looking at my blog</td>
   </tr>
 </table>
 
