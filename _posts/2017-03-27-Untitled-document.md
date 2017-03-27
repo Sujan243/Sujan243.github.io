@@ -2,7 +2,7 @@
 title: Week 15 Codecademy practice diary
 layout: post
 author: sujan.ahilan
-permalink: 15
+permalink: /15/
 source-id: 15vNRBHCtSTYTJ1A1FJJc9hxFgCTn45AAlmrM95V1GUw
 published: true
 ---
